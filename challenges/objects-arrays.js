@@ -178,6 +178,7 @@ populationTotal = zooAnimals.reduce((acc, item, index)=>{
   return acc
 }, 0)
 
+
 /* 
 
 Stretch: If you haven't already, convert your array method callbacks into arrow functions.

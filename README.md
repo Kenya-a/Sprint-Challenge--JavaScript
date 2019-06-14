@@ -42,10 +42,10 @@ A closure is basically where an inner function has access to variables in the gl
 
 4. Describe the four rules of the 'this' keyword.
 
-    I. A function has to be called by new
-    II. How is the function called call() apply() or bind()
-    III. Is the function called by a method
-    VI. Is the function called in the global scope?
+    I. A function has to be called by new : new keyword to create a new instance of an object.
+    II. How is the function called call() apply() or bind() : Explicit binding 
+    III. Is the function called by a method : implicit binding
+    VI. Is the function called in the global scope?: @ bubbling up concept
 
 
 5. Why do we need super() in an extended class?
